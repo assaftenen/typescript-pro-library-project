@@ -1,0 +1,12 @@
+{
+  "name": "typescript-pro-library-project",
+  "version": "1.0.0",
+  "description": "typescript-pro-library-project",
+  "main": "index.js",
+  "repository": "https://github.com/assaftenen/typescript-pro-library-project.git",
+  "author": "<assaf.tenen@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.6.1"
+  }
+}
